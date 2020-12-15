@@ -6,4 +6,7 @@ This repository executes the instructions in the book "Tiny python projects" by 
 - [x] Chapter 2: [The crow’s nest; Working with strings](https://github.com/eetinosa/TinyPythonProject/tree/main/02_Crowsnest)
 - [x] Chapter 3: [Going on a picnic; Working with lists](https://github.com/eetinosa/TinyPythonProject/tree/main/03_Picnic)
 - [x] Chapter 4: [Jump the Five; Working with dictionaries](https://github.com/eetinosa/TinypythonProjects/tree/main/04_Jump_the_five)
-- [x] Chapter 5: [Howler; Working with Files and STDOUT]((https://github.com/eetinosa/TinypythonProjects/tree/main/05_Howler)
+- [x] Chapter 5: [Howler; Working with Files and STDOUT](https://github.com/eetinosa/TinypythonProjects/tree/main/05_Howler)
+- [x] Chapter 6: [Word Count;Reading Files and STDIN,iterating lists,formatting strings](https://github.com/eetinosa/TinypythonProjects/tree/main/06_wc)
+- [x] Chapter 7: [Gashlycrumb:Looking items up in a dictionary](https://github.com/eetinosa/TinypythonProjects/tree/main/07_gashlycrumb)
+)
